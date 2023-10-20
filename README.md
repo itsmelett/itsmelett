@@ -1,5 +1,4 @@
-## oiii, me chamo Letícia sou estudante de Ciências da Computação, gamer e criadora de conteúdo. pretendo compartilhar um pouco
-do que eu aprendi aqui no github!
+## oiii, me chamo Letícia sou estudante de Ciências da Computação, gamer e criadora de conteúdo. pretendo compartilhar um pouco do que eu aprendi aqui no github!
 
 
 <div style="display: inline_block"><br>
