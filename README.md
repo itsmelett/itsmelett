@@ -24,7 +24,7 @@
 
 <div>
     <a href="https://instagram.com/letmchd" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://cdn.discordapp.com/attachments/1033868945817608232/1165254818567307326/instagram.png?ex=65462f1e&is=6533ba1e&hm=7cc3d332840fcf08e41c90dc7d94be9d0d12a5534b721996ec98c6f60c3eef92&"
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a>
     <a href="https://www.twitch.tv/itsmelett" target="_blank"><img
             src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
